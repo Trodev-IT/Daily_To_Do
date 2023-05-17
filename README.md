@@ -1,4 +1,5 @@
-# Daily_To_Do
+# Daily_To_Do 
+<img src="https://github.com/Trodev-IT/Daily_To_Do/assets/74914169/c462623e-314a-4bf8-b875-a637ce72d25e.png" width=10% height=10%>
 It's a notepad application. It make with android and room database features. Room is a persistence library for Android that makes it easier to work with SQLite databases. It provides an abstraction layer over SQLite, allowing developers to work with the database using higher-level constructs and reducing the amount of boilerplate code needed.
 
 ## Application Features
@@ -26,6 +27,3 @@ Your contributions are always `welcome!`
 [![forthebadge](https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/84349418/admin/)
 [![forthebadge](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trodevit/)
 [![forthebadge](https://img.shields.io/badge/GitHub-D14836?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Trodev-IT/)
- 
-<!-- Image board -->
-<!-- <img src="https://user-images.githubusercontent.com/74914169/235325219-766dd1d4-feee-419b-a57e-df1faca3dcc5.png" width=85% height=80%> --> 
